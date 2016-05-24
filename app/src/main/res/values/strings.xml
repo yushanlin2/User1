@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User1</string>
+    <string name="message_default_text">Message</string>
+    <string name="message_id">msgId</string>
+</resources>
